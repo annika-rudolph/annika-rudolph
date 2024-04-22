@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Annika
+- 👋 Hi, I’m Anni
 - ✨ I’m interested in python data analysis tools and numerical methods
 - 💜 Pronouns: she/her
 
